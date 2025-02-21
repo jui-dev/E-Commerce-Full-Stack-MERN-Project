@@ -15,9 +15,8 @@ const path = require("path");
 
 //----------------- for database ( mongodb ) connection ----------------//
 
-let URL =
-  "mongodb+srv://jui77667:j123@cluster0.zot45.mongodb.net/MernEcommerce";
-let option = { user: "jui77667", pass: "j123", autoIndex: true };
+let URL = "mongodb+srv://........@cluster0.zot45.mongodb.net/MernEcommerce";
+let option = { user: ".....", pass: "....", autoIndex: true };
 
 mongoose
   .connect(URL, option)

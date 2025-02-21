@@ -1,4 +1,5 @@
 **node_modules
+**Email_SMTP.txt
 # Logs
 logs
 *.log

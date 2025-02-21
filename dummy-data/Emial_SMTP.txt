@@ -1,3 +1,3 @@
-host: "smtp.gmail.com",
-port: 465,
-auth: { user: "levi.arlo4455@gmail.com", pass: "kocofjlvtkjlgimp" }, 
+host: "",
+port: ,
+auth: { user: "", pass: "" }, 

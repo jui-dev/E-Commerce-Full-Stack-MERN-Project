@@ -5,9 +5,9 @@ const EmailSend = async (EmailTo, EmailText, EmailSubject) => {
   // 1st create a transporter. || call the  "createTransport()" method from the "nodemailer". || we need to set some properties inside this method.
 
   let transport = nodemailer.createTransport({
-    host: "smtp.gmail.com",
+    host: ".......",
     port: 465,
-    auth: { user: "levi.arlo4455@gmail.com", pass: "kocofjlvtkjlgimp" }, // "levi.arlo4455@gmail.com" using this we will send the email.
+    auth: { user: "........", pass: ".........." }, // "levi.arlo4455@gmail.com" using this we will send the email.
   });
   // email option.
   let mailOption = {
